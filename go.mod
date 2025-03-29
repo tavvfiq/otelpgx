@@ -11,7 +11,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.34.0
 )
 
-replace github.com/yugabyte/pgx/v5 => github.com/tavvfiq/pgx/v5 v5.0.0-20250329155233-35063cd2b2d3
+replace github.com/yugabyte/pgx/v5 => github.com/tavvfiq/pgx/v5 v5.0.0-20250329164507-681917bf9e4f
 
 require (
 	github.com/go-logr/logr v1.4.2 // indirect
